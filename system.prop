@@ -12,6 +12,7 @@ dalvik.vm.appimageformat=lz4
 ro.dalvik.vm.native.bridge=0
 pm.dexopt.first-boot=quicken
 pm.dexopt.boot=verify
+ro.vendor.mtk.pq_support=0
 pm.dexopt.install=battery-profile
 pm.dexopt.bg-dexopt=battery-profile
 pm.dexopt.ab-ota=battery-profile
